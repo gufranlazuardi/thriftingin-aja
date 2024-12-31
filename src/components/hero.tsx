@@ -16,7 +16,7 @@ export function Hero() {
             </div>
           </h1>
           <p className="text-3xl text-white mb-8">
-            We've Got You Covered
+            We&apos;ve Got You Covered
           </p>
           <Button className="bg-[#9747FF] hover:bg-purple-700 text-white px-8 py-6 rounded-none text-sm lg:text-lg">
             Learn more →
